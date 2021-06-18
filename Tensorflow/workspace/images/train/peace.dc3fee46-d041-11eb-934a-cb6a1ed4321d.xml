@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peace</folder>
+	<filename>peace.dc3fee46-d041-11eb-934a-cb6a1ed4321d.jpg</filename>
+	<path>/home/prashant/WorkSpace/Github/TensorFlow_Object_Detection_hand_gesture/Tensorflow/workspace/images/collectedimages/peace/peace.dc3fee46-d041-11eb-934a-cb6a1ed4321d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>121</ymin>
+			<xmax>574</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
