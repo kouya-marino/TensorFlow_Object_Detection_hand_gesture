@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pyqt5
+lxml
+tensorflow==2.4.0
+tensorflow-gpu==2.4.0
+
